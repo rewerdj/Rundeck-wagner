@@ -31,7 +31,3 @@ Após baixar no diretorio Rundeck-wagner execute o arquivo docker-compose.yml co
 
 Irá instalar e fazer o processo de build do Rundeck
 
-
-
-  
-
