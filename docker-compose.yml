@@ -10,5 +10,5 @@ services:
       ports:
         - 4440:4440
       build:
-        context: .
+        context: .     
 
