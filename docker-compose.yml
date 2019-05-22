@@ -4,8 +4,8 @@ services:
 
    rundeck:
       #servico rundeck
-      image: rewerdj/rundeck-wagner
-      #image: rundeck
+      #image: rewerdj/rundeck-wagner
+      image: rundeck:3.0.20
       hostname: 192.168.56.105.nip.io
       ports:
         - 4440:4440
