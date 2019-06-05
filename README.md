@@ -33,10 +33,17 @@ ira fazer clone dos arquivo e criará um diretorio rundeck
 13 para deruubar o docker e o rundeck rode o comando # docker-compose down 
 
 Grupo Trabalho Rundeck (Diciplina Tópicos especiais)
+
+
 Wagner Simões
+
 Thiago Passos
+
 Waldir Bravin
+
 Andre  Gomes
+
+
 
 Professor Marcelo Lucas
 
@@ -44,8 +51,9 @@ Senac RJ (Centro Tecnológico)
 
 Rede de Computadores.
 
+_____________________________
 
-
+gradecemos a todos os que nos apoiaram!
 
 #rundeck
 
