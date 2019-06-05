@@ -18,14 +18,14 @@ Instalar Rundeck e rodar
 ira fazer clone dos arquivo e criará um diretorio rundeck
 
 4) entrar no diretorio #cd rundeck
-5) # ls -l
-6) # vi docker-compose.yml
+5) #ls -l
+6) #vi docker-compose.yml
 7) em hostname colocar o ip de acesso ao rundeck
-   # 192.168.56.105.nip.io
-8) # docker-compose build
-9) # docker-compose up -d (subir docker e rundeck)
+   #192.168.56.105.nip.io
+8) #docker-compose build
+9) #docker-compose up -d (subir docker e rundeck)
 
-10) # docker-compose logs -f (Ver Logs e verificar se subiu a aplicação)
+10) #docker-compose logs -f (Ver Logs e verificar se subiu a aplicação)
 11) após ir ao navegador e digitar o ip configurado no docker-compose.yml no meu caso http://192.168.56.105.nip.io:4440
 
 12) irá aparecer a pagina do Rundeck, log com o login: admin senha: admin
@@ -48,3 +48,4 @@ Rede de Computadores.
 
 
 #rundeck
+
